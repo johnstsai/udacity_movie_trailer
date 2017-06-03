@@ -1,6 +1,6 @@
-*Movie trailer website 06/02/2017
+Movie trailer website 06/02/2017
 
-***Introduction
+Introduction
 ============================================
 This project creates a website to play
 movie trailers, it contains:
@@ -13,7 +13,7 @@ movie trailers, it contains:
 - fresh_tomatoes.py
 	website formating
 
-***Steps
+Steps
 ============================================
 1. Download the all the files
 2. You will have to install Python 2.7.12 if you don’t have one
